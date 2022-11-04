@@ -1,0 +1,51 @@
+body{
+    margin: 0;
+    background-image: url('assets/img/background.webp');
+    background-position: 100%;
+    min-height: 100vh;
+}
+
+.main{
+    display: flex;
+    flex-direction: column;  
+    text-align: center;
+}
+
+.chuck{
+    margin-top: 30px;
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.joke-area{
+    margin-top: 15px;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+    border: none;
+    outline:none;
+    resize:none;
+    border-radius: 10px;
+    font-size: 1.2rem;
+    color: #fff;
+    background: #221406;
+}
+
+.button{
+    margin-top:20px;
+    width: 80px;
+    padding: 10px;
+    border: none;
+    border-radius: 15px;
+    cursor: pointer;
+    background: #802206;
+    color: #fff;
+    outline:none;
+    transition: background .3s;
+}
+
+.button:hover{
+    background: #5e1a05;
+}
