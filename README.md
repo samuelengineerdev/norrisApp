@@ -22,8 +22,6 @@
 
 ## Demo en Vivo
 
-[Demo](url)
-
-<a href="http://example.com" target="_blank">¡Prueba la Chuck Norris Jokes App en acción!</a>
+[Demo](https://sm-company.github.io/norrisApp/)
 
 ---
