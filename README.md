@@ -2,7 +2,7 @@
 
 ## Descripción del Proyecto
 
-¡Bienvenido a la Chuck Norris Jokes App! Este proyecto es una aplicación web simple desarrollada con HTML, CSS y JavaScript que ofrece una dosis diaria de risas con los legendarios chistes de Chuck Norris.
+Este proyecto es una aplicación web simple desarrollada con HTML, CSS y JavaScript que ofrece legendarios chistes de Chuck Norris.
 
 ## Características Principales
 
