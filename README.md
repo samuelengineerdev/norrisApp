@@ -22,6 +22,6 @@
 
 ## Demo en Vivo
 
-[¡Prueba la Chuck Norris Jokes App en acción!](#https://sm-company.github.io/norrisApp/)
+[¡Prueba la Chuck Norris Jokes App en acción!](https://sm-company.github.io/norrisApp/)
 
 ---
