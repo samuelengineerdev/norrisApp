@@ -22,6 +22,6 @@
 
 ## Demo en Vivo
 
-[Demo](https://sm-company.github.io/norrisApp/)
+[Demo](https://sm-company.github.io/norrisApp/){:target="_blank"}
 
 ---
